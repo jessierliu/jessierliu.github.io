@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JRL"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jessie R. Liu"
-description              : "I love brains and programming."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,8 +84,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-#twitter:
-#  username               : jrl295
 #facebook:
 #  username               :
 #  app_id                 :
@@ -110,41 +108,35 @@ analytics:
 author:
   name             : "Jessie R. Liu"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in the <a href='http://changlab.ucsf.edu/'>Chang Lab</a> at UCSF."
+  bio              : "Postdoctoral scholar in the <a href='http://changlab.ucsf.edu/'>Chang Lab</a> at UCSF."
   location         : "San Francisco, CA."
   email            :
   links:
-    - label: ""
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jessierliu"
-    - label: ""
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/jessierliu"
-    - label: ""
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=-T2Gq-EAAAAJ&hl=en&oi=ao"
     - label: ""
       icon: "far fa-fw fa-envelope"
-      url: "mailto:jessie.liu@berkeley.edu"
+      url: "mailto:jessie.liu@ucsf.edu"
 
 # Site Footer
-footer:
-  links:
-    - label: ""
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jessierliu"
-    - label: ""
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/jessierliu"
-    - label: ""
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=-T2Gq-EAAAAJ&hl=en&oi=ao"
-    - label: ""
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jessie-liu-356585a5/"
-    - label: ""
-      icon: "far fa-fw fa-envelope"
-      url: "mailto:jessie.liu@berkeley.edu"
+# footer:
+#   links:
+#     - label: "Github"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/jessierliu"
+#     - label: ""
+#       icon: "fab fa-fw fa-google"
+#       url: "https://scholar.google.com/citations?user=-T2Gq-EAAAAJ&hl=en&oi=ao"
+#     - label: ""
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/jessie-liu-356585a5/"
+#     - label: ""
+#       icon: "far fa-fw fa-envelope"
+#       url: "mailto:jessie.liu@ucsf.edu"
 
 # Reading Files
 include:
