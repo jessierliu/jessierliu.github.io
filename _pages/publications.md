@@ -9,6 +9,13 @@ For a complete list, check out my <a href="https://scholar.google.com/citations?
 
 <p style="font-size:14px;">
 
+<b>Jessie R. Liu*</b>, Lingyun Zhao*,
+Patrick W. Hullett, and Edward F. Chang.
+<a href="https://www.nature.com/articles/s41562-025-02250-1">Speech sequencing in the human precentral gyrus.</a>  
+<i>Nature Human Behaviour</i>. 16 July 2025.
+
+<br/><br/>
+
 Alexander B. Silva, <b>Jessie R. Liu</b>, Lingyun Zhao,
 Deborah F. Levy, Terri L. Scott, and Edward F. Chang.
 <a href="https://www.jneurosci.org/content/42/45/8416">A Neurosurgical Functional Dissection of the Middle Precentral Gyrus during Speech Production.</a>  
